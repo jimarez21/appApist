@@ -7,13 +7,13 @@
     @vite('resources/css/app.css')
     <title>Home</title>
 </head>
-<body>
-    <div class="presentacion">
-        <div class="cetificacion">
-            <h1 class="text-3x1 font-bold underline">CERTIFIACIÓN</h1>
-            <img src="https://placehold.co/900x600" alt="">
+<body class="bg-gray-800">
+    <div class="presentacion flex flex-row basis-full px-12">
+        <div class="cetificacion bg-cyan-500 basis-3/5 px-12">
+            <h1 class="text-6x1 md:text-3xl font-monaco font-bold text-center tracking-tighter py-8">CERTIFICACIÓN</h1>
+            <img src="https://ec1191.my.canva.site/_assets/media/96de5a81462e99c985893cde78bb4d53.jpg" alt="Product screenshot" class="aspect-4/3 pb-8"/>
         </div>
-        <div class="educacion">
+        <div class="educacion basis-2/5">
             <img src="https://placehold.co/450x250" alt="">
             <h2>EC1191: USO DE LAS NORMAS ORTOGRÁFICAS EN TEXTOS IMPRESOS/DIGITALES NIVEL INTERMEDIO.</h2>
         </div>
