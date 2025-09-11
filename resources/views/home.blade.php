@@ -14,8 +14,8 @@
             <h1 class="text-8x1 md:text-3xl font-monaco font-bold text-center text-black tracking-tighter py-8">CERTIFICACIÓN</h1>
             <img src="https://ec1191.my.canva.site/_assets/media/96de5a81462e99c985893cde78bb4d53.jpg" alt="Product screenshot" class="aspect-4/3 pb-8"/>
         </div>
-        <div class="educacion basis-2/5 grid grid-cols-7 gap-2 pt-8">
-            <img src="/storage/logo_sep.jpg" alt="" class="text-center col-span-5 col-start-2 pt-12">
+        <div class="educacion basis-2/5 grid grid-cols-7 pt-8">
+            <img src="/storage/logo_sep.jpg" alt="" class="text-center mt-8 box-border border-4 border-azul-apist text-center col-start-1 col-end-7 rounded-lg bg-white">
             <h2 class="font-sans text-4xl font-medium text-azul-apist col-span-7 text-center">EC1191: USO DE LAS NORMAS ORTOGRÁFICAS EN TEXTOS IMPRESOS/DIGITALES NIVEL INTERMEDIO.</h2>
         </div>
     </div>
@@ -78,7 +78,7 @@
     <div>
         <h2>¿COMO APROVECHAR ESTE MANUAL?</h2>
         <div class="container">
-            <div class="cuadro">
+            <div class="cuadro box-border border-4 border-azul-apist p-8 aspect-square text-center grid grid-rows-5 grid-cols-7 rounded-lg bg-white">
                 <p>SIGUE EL ORDEN DE LOS MÓDULOS, YA QUE CADA UNO CONSTRUYE SOBRE LO APRENDIDO ANTERIORMENTE.</p>
             </div>
             <div class="cuadro">
